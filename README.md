@@ -7,4 +7,6 @@ pip install pyqt5-tools
 ```
 
 ### Convert `.ui` to `.py`
-`pyuic5 -x test.ui -o test.py`
+```
+pyuic5 -x test.ui -o test.py
+```
